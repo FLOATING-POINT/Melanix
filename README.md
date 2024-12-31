@@ -15,7 +15,7 @@ The project includes an app to record perfromances with body tracking data into 
 ![IRcFrUQmvNny3GaLdsbE5hSu-267x300](https://github.com/user-attachments/assets/06ce4123-c48f-41a4-afb9-0cd408513150)
 
 
-<h2>Openframeworks addons:</h2>h2>
+<h2>Openframeworks addons:</h2>
 
 ofxMSKinectSkelDataReader - https://github.com/FLOATING-POINT/ofxMSKinectSkelDataReader
 
