@@ -21,7 +21,7 @@ ofxMSKinectSkelDataReader - https://github.com/FLOATING-POINT/ofxMSKinectSkelDat
 
 ofxMSKinectSkelDataWriter - https://github.com/FLOATING-POINT/ofxMSKinectSkelDataWriter
 
-You can search https://ofxaddons.com for other addons:
+You can search https://ofxaddons.com for the other reuired addons:
 
 
 ofxmskinect
