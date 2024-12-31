@@ -1,0 +1,50 @@
+<controls>
+    <SliderInt_Torso_x>
+        <name>Torso x</name>
+        <value>199</value>
+    </SliderInt_Torso_x>
+    <SliderInt_Torso_y>
+        <name>Torso y</name>
+        <value>340</value>
+    </SliderInt_Torso_y>
+    <SliderFloat_Easing_of_values_4>
+        <name>Easing of values 4</name>
+        <value>0.000000</value>
+    </SliderFloat_Easing_of_values_4>
+    <SliderFloat_Amplication_Diaghram_4>
+        <name>Amplication Diaghram 4</name>
+        <value>35.450001</value>
+    </SliderFloat_Amplication_Diaghram_4>
+    <SliderFloat_Amplication_Left_Arm_4>
+        <name>Amplication Left Arm 4</name>
+        <value>1.700000</value>
+    </SliderFloat_Amplication_Left_Arm_4>
+    <SliderFloat_Amplication_Right_Arm_4>
+        <name>Amplication Right Arm 4</name>
+        <value>1.000000</value>
+    </SliderFloat_Amplication_Right_Arm_4>
+    <SliderFloat_Amplication_Left_Leg_4>
+        <name>Amplication Left Leg 4</name>
+        <value>1.000000</value>
+    </SliderFloat_Amplication_Left_Leg_4>
+    <SliderFloat_Amplication_Right_Leg_4>
+        <name>Amplication Right Leg 4</name>
+        <value>1.000000</value>
+    </SliderFloat_Amplication_Right_Leg_4>
+    <SliderFloat_Amplication_Final_Torso_4>
+        <name>Amplication Final Torso 4</name>
+        <value>1.000000</value>
+    </SliderFloat_Amplication_Final_Torso_4>
+    <SliderFloat_Max_movie_fps>
+        <name>Max movie fps</name>
+        <value>46.615383</value>
+    </SliderFloat_Max_movie_fps>
+    <Toggle_Use_2nd_Skel_for_Torso>
+        <name>Use 2nd Skel for Torso</name>
+        <value>0</value>
+    </Toggle_Use_2nd_Skel_for_Torso>
+    <Toggle_Use_Diaphragm_for_Torso>
+        <name>Use Diaphragm for Torso</name>
+        <value>1</value>
+    </Toggle_Use_Diaphragm_for_Torso>
+</controls>

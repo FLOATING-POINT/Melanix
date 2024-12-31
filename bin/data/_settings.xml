@@ -1,0 +1,10 @@
+<controls>
+    <SliderInt_Torso_x>
+        <name>Torso x</name>
+        <value>200</value>
+    </SliderInt_Torso_x>
+    <SliderInt_Torso_y>
+        <name>Torso y</name>
+        <value>350</value>
+    </SliderInt_Torso_y>
+</controls>
