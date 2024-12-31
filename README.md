@@ -12,6 +12,7 @@ The project includes an app to record perfromances with body tracking data into 
 Openframeworks addons:
 
 ofxMSKinectSkelDataReader - https://github.com/FLOATING-POINT/ofxMSKinectSkelDataReader
+
 ofxMSKinectSkelDataWriter - https://github.com/FLOATING-POINT/ofxMSKinectSkelDataWriter
 
 You can search https:ofxaddons.com for other addons:
